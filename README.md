@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hi, I am AutismSuperman, a program developer, mainly engaged in Java development
+Hi, I am AutismSuperman, a program developer, mainly engaged in Java development
 
 📧 Email: fulinlin9527@outlook.com
 
