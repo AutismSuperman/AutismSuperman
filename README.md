@@ -3,6 +3,7 @@
 Hi, I am AutismSuperman, a program developer, mainly engaged in Java development
 
 📧 Email: fulinlin9527@outlook.com
+😄 Wechat: weixinbushuang
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AutismSuperman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutismSuperman&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
